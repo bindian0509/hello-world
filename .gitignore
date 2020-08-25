@@ -1,0 +1,23 @@
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.idea/
+**/.gitignore/
+*.iml
+**/target
+
+node_modules
+.tmp
+.sass-cache
+.idea
+.project
+target
+/logs
+**/logs/
+.DS_Store
+.templateCache
+_notes
+npm-debug.log
+**/desktop/crawl_result
+**/mobile/crawl_result
+**/.settings/
+**/.classpath
